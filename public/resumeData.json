@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name": "Sayed Abu Ahmed",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer,  with a passion for Web Applications Development.Passionate about learning new technologies & Solving Problems",
+    "image": "siamWhite.png",
+    "bio": "My name is Sayed Abu Ahmed, I'm a Full Stack ReactJS Developer.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "siamshahriar390@gmail.com",
+    "phone": "+880 15179 25193",
+    "address": {
+      "street": "178, Muradpur, Jurain, Dhaka",
+      "city": "Dhaka City,",
+      "state": "Dhaka Division",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/18HwKEhBmDNR3uNRsq6y19zjnbFzGlYak/view",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/siam.husain/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sayed-siam",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/siam-26",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Skills are the expertise or talent needed in order to do a job or task.",
+    "education": [
+      {
+        "school": "Tejgaon College,Dhaka",
+        "degree": "Studying Bachelor in Biochemistry & Molecular Biology",
+        "graduated": "January 2017",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Programming Hero",
+        "degree": "Completed Web Development Course",
+        "graduated": "January 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Lindar Media",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "NextJs",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "80%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Disney Plus Clone",
+        "category": "Disney Plus Clone built with (ReactJS, Redux,Firebase)",
+        "image": "disney-plus-clone.png",
+        "url": "https://disney-plus-clone-fd976.web.app/"
+      },
+      {
+        "title": "MEDICO-APP",
+        "category": "MEDICO-APP built with (ReactJS, ExpressJS, NodeJS, MongoDB)",
+        "image": "medicoapp.png",
+        "url": "https://medico-app-12b4c.web.app/"
+      },   
+      {
+        "title": "SchedulePlannr(Team project)",
+        "category": "SchedulePlannr build with (TypeScript, MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "SchedulePlanner.png",
+        "url": "https://schedu-plannr.web.app/"
+      },
+      {
+        "title": "Global News",
+        "category": "Global News built with JavaScript , Api",
+        "image": "newss.png",
+        "url": "https://unrivaled-tartufo-ea70c4.netlify.app/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Thank you so much for your hard work during the last two months. We are happy to see how much you have grown in such a short time. Your dedication and hard work helped you take your knowledge to the next level, and such dedication deserves to be rewarded. To honor your hard work, we at Programming Hero decided to give you a recommendation letter so that you can showcase your learning with pride.We hope that this recommendation letter will help you to always look back at those two months and inspire you to work hard so that you can overcome any challenges with the highest confidence. Best wishes for your future adventures!",
+        "user": "Programming Hero Team"
+      }
+    ]
+  }
+}
