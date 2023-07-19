@@ -2,7 +2,7 @@
   "main": {
     "name": "Sayed Abu Ahmed",
     "occupation": "Web Developer",
-    "description": "JavaScript Developer, Full Stack React Developer,  with a passion for Web Applications Development.Passionate about learning new technologies & Solving Problems",
+    "description": "JavaScript Developer, Full Stack React Developer,  with a passion for Web Application Development.Passionate about learning new technologies & Solving Problems",
     "image": "siamWhite.png",
     "bio": "My name is Sayed Abu Ahmed, I'm a Full Stack ReactJS Developer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -15,7 +15,7 @@
       "zip": "ABC 123"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1s8VCDXMfDyOEJgF0u0TM4IF2Aq0tfPA3/view",
+    "resumedownload": "https://drive.google.com/file/d/14avAGQdqRRq9iyUfN6WhWEnxpra2nSwq/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -136,10 +136,10 @@
         "url": "https://schedu-plannr.web.app/"
       },
       {
-        "title": "Global News",
-        "category": "Global News built with JavaScript , Api",
-        "image": "newss.png",
-        "url": "https://unrivaled-tartufo-ea70c4.netlify.app/"
+        "title": "Connected Learning",
+        "category": "Connected Learning built with (JavaScript,ReactJs, Tailwind CSS)",
+        "image": "connectedlearning.png",
+        "url": "https://connectedlearning.netlify.app/"
       }
       
     ]
